@@ -1,0 +1,12 @@
+img{
+    width: 250px;
+    height: 300px;
+}
+footer {
+    text-align: center;
+    padding: 0%;
+}
+header{
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+}
